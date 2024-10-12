@@ -11,41 +11,41 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="49" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="61" alt="cplusplus logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=py" height="49" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="61" alt="python logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=html" height="49" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="61" alt="html5 logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=css" height="49" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="61" alt="css3 logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="61" alt="tailwindcss logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="49" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="61" alt="bootstrap logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=js" height="49" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="61" alt="javascript logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=react" height="49" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="61" alt="react logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="49" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="61" alt="nodejs logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=express" height="49" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="61" alt="express logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="49" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="61" alt="mongodb logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="49" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="61" alt="postgresql logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=postman" height="49" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="61" alt="postman logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="61" alt="vscode logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="49" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="61" alt="vercel logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="49" alt="netlify logo"  />
+  <img src="https://skillicons.dev/icons?i=netlify" height="61" alt="netlify logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=git" height="49" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="61" alt="git logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=github" height="49" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="61" alt="github logo"  />
 </div>
 
 ###
