@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="49" alt="cplusplus logo"  />
   <img width="21" />
   <img src="https://skillicons.dev/icons?i=py" height="49" alt="python logo"  />
