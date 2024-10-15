@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is KUnal Bhalerao.<br><br> and I'm A passionate Web Developer from India.</h1>
+<h1 align="center">Hi 👋! My name is KUNAL BHALERAO.<br><br> and I'm A passionate Web Developer from India.</h1>
 
 ###
 
