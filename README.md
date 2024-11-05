@@ -61,6 +61,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="63" height="45" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="45" alt="gmail logo"  />
 </div>
+###
+
+<a href="https://app.daily.dev/kunalbhalerao"><img src="https://api.daily.dev/devcards/v2/58PI7UKvWC1hMezkvbFFk.png?type=wide&r=eiw" width="652" alt="KUNAL BHALERAO's Dev Card"/></a>
 
 ###
 
@@ -75,7 +78,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/iamKunalBhalerao/iamKunalBhalerao/output/snake.svg" alt="Snake animation" />
 
 ###
