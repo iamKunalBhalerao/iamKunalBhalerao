@@ -62,18 +62,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="45" alt="gmail logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamKunalBhalerao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=iamKunalBhalerao&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=8&date_format=M%20j%5B,%20Y%5D" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamKunalBhalerao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=iamKunalBhalerao&no-bg=true&no-frame=true&margin-h=10&column=8&row=5&margin-w=0&theme=algolia" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamKunalBhalerao&theme=nord&hide_border=true&area=true&radius=10" height="210" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-###
