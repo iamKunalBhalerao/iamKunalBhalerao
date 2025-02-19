@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! My name is KUNAL BHALERAO.<br><br> and I'm A passionate Web Developer from India.</h1>
+<h1 align="center">Hi 👋! My name is KUNAL BHALERAO.<br><br>I'm A passionate Web Developer from India.</h1>
 
 ###
 
-<p align="left">🌱 I’m currently learning MERN Stack Development.<br><br>💬 Ask me about React JS, Node JS, Express JS, MongoDB.<br><br>📫 You can reach me on  kunalbhalerao002@gmail.com<br><br>⚡ Fun fact I think I am Passionate about Tech.</p>
+<p align="left">🌱 I’m currently learning MERN Stack Development.<br><br>💬 Ask me about React JS, Node JS, Express JS, MongoDB.<br><br>⚡ Fun fact I think I am Passionate about Tech.</p>
 
 ###
 
@@ -62,7 +62,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="45" alt="discord logo"  />
   </a>
   <a href="https://x.com/KUNAL_BHALERAO_">
-    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg](https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png)" width="63" height="45" alt="twitter logo"  />
+    <img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="63" height="45" alt="twitter logo"  />
   </a>
 </div>
 
