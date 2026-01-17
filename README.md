@@ -2,13 +2,25 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning MERN Stack Development.<br><br>💬 Ask me about React JS, Node JS, Express JS, MongoDB.<br><br>⚡ Fun fact I think I am Passionate about Tech.</p>
+<p align="left">🚀 Full-stack developer focused on building scalable, real-world web applications
+<br><br>⚡ Strong backend + modern frontend.
+<br><br>🧠 Learning system design and production-level architecture.</p>
 
 ###
 
-<p align="left">I Know About :</p>
+<p align="left">🧠 Core Focus Areas</p>
+###
+<div>
+  <p align="left">Full-stack web development</p>
+  <p align="left">Backend architecture and API design</p>
+  <p align="left">Real-time systems (WebSockets, events)</p>
+  <p align="left">Scalable system design</p>
+  <p align="left">Clean code, type safety, and maintainability</p>
+</div>
 
 ###
+
+<h2 align="left">🛠 Tech Stack</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="61" alt="cplusplus logo"  />
@@ -47,6 +59,23 @@
   <img width="21" />
   <img src="https://skillicons.dev/icons?i=github" height="61" alt="github logo"  />
 </div>
+
+###
+
+<p align="left">📚 Currently Learning</p>
+
+###
+
+<p>📌 System Design<br><br>
+📌 Backend Scaling<br><br>
+📌 Redis & Queues<br><br>
+📌 CI/CD & Cloud</p>
+
+###
+
+<p align="left">🎯 Goal</p>
+###
+<p>Build production-grade apps and land a high-impact internship or role.</p>
 
 ###
 
