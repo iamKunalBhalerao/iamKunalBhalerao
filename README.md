@@ -1,96 +1,105 @@
-<h1 align="center">Hi 👋! My name is KUNAL BHALERAO.<br><br>I'm A passionate Web Developer from India.</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">🚀 Full-stack developer focused on building scalable, real-world web applications
-<br><br>⚡ Strong backend + modern frontend.
-<br><br>🧠 Learning system design and production-level architecture.</p>
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/141581585?v=4"  />
 
 ###
 
-<p align="left">🧠 Core Focus Areas</p>
-###
 <div>
-  <p align="left">Full-stack web development</p>
-  <p align="left">Backend architecture and API design</p>
-  <p align="left">Real-time systems (WebSockets, events)</p>
-  <p align="left">Scalable system design</p>
-  <p align="left">Clean code, type safety, and maintainability</p>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Kunal%20Bhalerao&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h2 align="left">🛠 Tech Stack</h2>
+<h3 align="left">My name is Kunal and I'm a Full Stack Developer, from India.</h3>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="61" alt="cplusplus logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=py" height="61" alt="python logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=html" height="61" alt="html5 logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=css" height="61" alt="css3 logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="61" alt="tailwindcss logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="61" alt="bootstrap logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=js" height="61" alt="javascript logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=react" height="61" alt="react logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="61" alt="nodejs logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=express" height="61" alt="express logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="61" alt="mongodb logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="61" alt="postgresql logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=postman" height="61" alt="postman logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="61" alt="vscode logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="61" alt="vercel logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="61" alt="netlify logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=git" height="61" alt="git logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=github" height="61" alt="github logo"  />
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Agentic AI<br>🎯 Goals: Become a Good Deveoper</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
 ###
 
-<p align="left">📚 Currently Learning</p>
+<br clear="both">
 
-###
-
-<p>📌 System Design<br><br>
-📌 Backend Scaling<br><br>
-📌 Redis & Queues<br><br>
-📌 CI/CD & Cloud</p>
-
-###
-
-<p align="left">🎯 Goal</p>
-###
-<p>Build production-grade apps and land a high-impact internship or role.</p>
-
-###
-
-<p align="left">My Social Media Handel's -</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kunalbhalerao/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="45" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/kunalbhalerao/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/channels/@me">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="45" alt="discord logo"  />
+  <a href="https://x.com/KUNAL_BHALERAO_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://x.com/KUNAL_BHALERAO_">
-    <img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="63" height="45" alt="twitter logo"  />
+  <a href="https://www.instagram.com/kunalbhaleraoo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/iamKunalBhalerao/iamKunalBhalerao/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
